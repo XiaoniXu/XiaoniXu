@@ -2,10 +2,9 @@
 
 [LinkedIn](https://linkedin.com/in/justinxxu) • [Email](mailto:justinxiaonixu@gmail.com) • [GitHub](https://github.com/XiaoniXu)
 
-*Note: My profile photo is a Boat-billed Heron (Cochlearius cochlearius), taken in Belize in Sep 2022.*
 
 ### 👨‍💻 About Me
-- 🎓 **Master of Science in Biostatistics** at Columbia University (GPA: 3.8)
+- 🎓 **Master of Science in Biostatistics** at Columbia University
 - 🎓 **Bachelor of Arts in Biology** from the University of Chicago
 - 🔬 Healthcare Data Scientist with experience in predictive modeling, clinical data analysis, and analytics product development.
 - ⚙️ Strong foundation in statistical methods (causal inference, multi-dimensional data, and survival analysis) building ML pipelines and data-driven solutions using **R**, **Python**, **SQL**, and **SAS**.
@@ -31,3 +30,6 @@
 
 ### 📝 Publications
 - *Xu, X., Natale, R. (2024).* Correlated evolution of beak and braincase morphology is present only in select bird clades. *Journal of Morphology*, 285, e21703.
+
+
+*My profile photo is a Boat-billed Heron (Cochlearius cochlearius), taken in Belize in Sep 2022.*
