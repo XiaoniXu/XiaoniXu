@@ -1,4 +1,4 @@
-# Hi, I'm Justin (Xiaoni) Xu 🧬
+# Hi, I'm Justin (Xiaoni) Xu 
 
 [LinkedIn](https://linkedin.com/in/justinxxu) • [Email](mailto:justinxiaonixu@gmail.com) • [GitHub](https://github.com/XiaoniXu)
 
