@@ -13,5 +13,3 @@
 - **Machine Learning & Analytics:** Predictive Modeling, Causal Inference, Survival Analysis, GLM, Healthcare Analytics (EHR/Claims Data)
 - **Data Engineering & Visualization:** Data Wrangling, Interactive Dashboards, High-Dimensional Data Processing
 
-
-*My profile photo is a Boat-billed Heron (Cochlearius cochlearius), taken in Belize in Sep 2022.*
