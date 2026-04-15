@@ -2,6 +2,8 @@
 
 [LinkedIn](https://linkedin.com/in/justinxxu) • [Email](mailto:justinxiaonixu@gmail.com) • [GitHub](https://github.com/XiaoniXu)
 
+*Note: My profile photo is a Boat-billed Heron (Cochlearius cochlearius), taken in Belize in Sep 2022.*
+
 ### 👨‍💻 About Me
 - 🎓 **Master of Science in Biostatistics** at Columbia University (GPA: 3.8)
 - 🎓 **Bachelor of Arts in Biology** from the University of Chicago
