@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Master of Science in Biostatistics** at Columbia University
-- 🎓 **Bachelor of Arts in Biology** from the University of Chicago
+- 🎓 **Bachelor of Arts in Biology** at the University of Chicago
 - 🔬 Healthcare Data Scientist with experience in predictive modeling, clinical data analysis, and analytics product development.
 
 ### 🛠️ Skills
